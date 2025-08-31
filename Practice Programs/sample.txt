@@ -1,0 +1,3 @@
+Hello, this is a sample file!
+Python is amazing for file handling.
+Keep learning and growing!
