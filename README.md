@@ -1,2 +1,2 @@
 # Whole-Life-Programs
-Ther is my all programs that I was created
+Their is my all programs that I was created
