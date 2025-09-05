@@ -1,2 +1,2 @@
-# Whole-Life-Programs
-Their is my all programs that I was created
+# It is my practice program Repository.
+Their is my all Practice Programs that I was created.
